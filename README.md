@@ -2,7 +2,7 @@
 
 This repository contains a demographic analysis comparing **Census Tracts** and **ZIP Codes** as units of geographic analysis, using Dane County, Wisconsin as a case study.
 
-ZIP codes are commonly used in public health, planning, and equity work, but they often **mask substantial internal socioeconomic variation**. This project demonstrates why **Census Tracts** provide a more accurate and informative geography for data-driven decision making.
+ZIP codes are commonly used in public health, planning, and equity work, but they often **mask substantial internal socioeconomic variation**. This project demonstrates why **Census Tracts** provide a more accurate and informative geography for data-driven decision-making.
 
 ---
 
@@ -11,7 +11,7 @@ ZIP codes are commonly used in public health, planning, and equity work, but the
 **Download and read the full report here:**  
 ➡️ [Census Tract vs ZIP Code Analysis – Dane County](reports/tract_vs_zip_analysis.pdf)
 
-This document includes:
+This document includes:  
 - A methodological explanation of ZIP Codes vs Census Tracts  
 - ACS workflows using tract-level data  
 - Visualizations comparing tract vs ZIP medians  
@@ -33,7 +33,7 @@ This document includes:
 
 ## 🛠️ Methods and Tools
 
-This project uses:
+This project uses:  
 - **R (tidycensus, tidyverse)** for ACS data extraction and analysis  
 - **QGIS** for mapping and spatial visualization  
 - **R ggplot2** for statistical graphics  
@@ -43,25 +43,24 @@ This project uses:
 
 ## 📬 Work With Me
 
-If you need:
+If you need:  
 - demographic analysis  
 - ACS data workflows  
 - neighborhood-level socioeconomic mapping  
 - equity indicators  
 - custom GIS or R-based reporting  
 
-I’m available for consulting and project-based work.
-
+I’m available for consulting and project-based work.  
 👉 **Hire me on Upwork:**  
-**[https://www.upwork.com/freelancers/demoanalytics](https://www.upwork.com/freelancers/demoanalytics)**
+[https://www.upwork.com/freelancers/demoanalytics](https://www.upwork.com/freelancers/demoanalytics)  
+
 ---
 
 ## 📜 License
 
 This repository and its contents (plots, text, maps, and the PDF report) are released under the  
-**Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0).**
-
+**Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0).**  
 This allows sharing with attribution, but **no commercial use**.  
-Full license: https://creativecommons.org/licenses/by-nc/4.0/
+Full license: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)  
 
 ---
