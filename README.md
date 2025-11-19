@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail.png" width="500">
+</p>
+
 # Census Tract vs ZIP Code Analysis for Dane County, Wisconsin
 
 This repository contains a demographic analysis comparing **Census Tracts** and **ZIP Codes** as units of geographic analysis, using Dane County, Wisconsin as a case study.
