@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="thumbnail.png" width="500">
+  <img src="thumbnail.png.png" width="500">
 </p>
 
 # Census Tract vs ZIP Code Analysis for Dane County, Wisconsin
