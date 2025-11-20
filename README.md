@@ -56,7 +56,7 @@ If you need:
 
 I’m available for consulting and project-based work.  
 👉 **Hire me on Upwork:**  
-[https://www.upwork.com/freelancers/demoanalytics](https://www.upwork.com/freelancers/demoanalytics)  
+[https://www.linkedin.com/company/demo-analytics/](https://www.linkedin.com/company/demo-analytics/)  
 
 ---
 
